@@ -27,3 +27,7 @@ Usage of log4j-detect:
  
  ![](https://raw.githubusercontent.com/channyein1337/log4j-detect/main/log4j-detect.png)
  
+# Note
+If there is any issue in running this tool, just contact me on twiiter or create issue.
+
+Thanks!
