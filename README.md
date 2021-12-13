@@ -25,7 +25,7 @@ Usage of log4j-detect:
  ▶ echo https://www.google.com | log4j-detect -hf header.txt -p payload.txt
  ```
  
- ![](https://raw.githubusercontent.com/channyein1337/log4j-detect/main/log4j-detect.png)
+ ![](https://github.com/channyein1337/log4j-detect/blob/main/log4j-detect.png?raw=true)
  
 # Note
 If there is any issue in running this tool, just contact me on twiiter or create issue.
